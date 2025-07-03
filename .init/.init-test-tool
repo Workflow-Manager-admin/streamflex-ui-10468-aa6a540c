@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/streamflex-ui-10468-aa6a540c/ott_ui_frontend"
+}
